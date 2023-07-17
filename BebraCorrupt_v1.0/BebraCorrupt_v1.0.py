@@ -45,7 +45,7 @@ window = tk.Tk()
 window.title("Bebra Corruptor")
 
 # Загрузка логотипа
-logo_image = tk.PhotoImage(file="C:/Users/Axand/OneDrive/Рабочий стол/BebraCorrupt_v1.0/assets/logo.png")  # Укажите путь к файлу с логотипом
+logo_image = tk.PhotoImage(file="put directory here")  # Укажите путь к файлу с логотипом
 
 # Создание элемента Label для логотипа
 logo_label = tk.Label(window, image=logo_image)
