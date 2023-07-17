@@ -120,7 +120,7 @@ window = tk.Tk()
 window.title("File Corruptor")
 
 # Загрузка логотипа
-logo_image = tk.PhotoImage(file=LOGO_PATH)
+logo_image = tk.PhotoImage(file=put directory here)
 
 # Создание метки с логотипом
 logo_label = tk.Label(window, image=logo_image)
