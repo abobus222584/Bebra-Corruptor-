@@ -5,7 +5,7 @@ import shutil
 import random
 
 # Путь к файлу с логотипом
-LOGO_PATH = "C:/Users/Axand/OneDrive/Рабочий стол/BebraCorrupt_v2.0/assets/logo.png"
+LOGO_PATH = "put directory here"
 
 # Список доступных алгоритмов
 ALGORITHMS = [
@@ -120,7 +120,7 @@ window = tk.Tk()
 window.title("File Corruptor")
 
 # Загрузка логотипа
-logo_image = tk.PhotoImage(file=put directory here)
+logo_image = tk.PhotoImage(file=LOGO_PATH)
 
 # Создание метки с логотипом
 logo_label = tk.Label(window, image=logo_image)
