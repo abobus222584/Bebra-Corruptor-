@@ -10,3 +10,11 @@
 
 # Что нового
 Добавлены алгоритмы
+
+# Как установить
+1.скачать Python(эсли он у вас эсть то можете пропустить этот шаг)
+2.Извлечь Zip файл
+3.после извлечения откройте папку и еще одну после этого выбераете версию
+4.откройте Python файл спомощю IDLE Python(эсли у вас эго нету то запускайте установщик python и дальше Modify>tcl/tk and IDLE>Next>Install или можете использовать PyCharm)
+5.ищите в тексте кода:(logo_image = tk.PhotoImage(file="put directory here") или же logo_image = tk.PhotoImage(file=put directory here) )там где (put directory here) указывайте путь к логотипу (пример:c:/downloads/Bebra-Corruptor--main/Bebra-Corruptor--main/BebraCorrupt_version/assets/logo.png)
+6.сохраняете запускаете файл и все 
